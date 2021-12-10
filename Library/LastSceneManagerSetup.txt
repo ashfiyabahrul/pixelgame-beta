@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Scene Lemon.unity
+=======
+- path: Assets/Scenes/Scene Hikal.unity
+>>>>>>> 64bafd9d9f41c31a48d771e113c3205846467ff3
   isLoaded: 1
   isActive: 1
   isSubScene: 0
