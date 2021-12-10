@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 52ff7bf5d8bf5644ebd970e4d28dcbc7
 TextureImporter:
   internalIDToNameTable:
@@ -7727,6 +7728,11 @@ TextureImporter:
   - first:
       213: 82584743428238033
     second: ZRPGBeach_2574
+=======
+guid: 305ba37fc401c90449bbe02d8de2211b
+TextureImporter:
+  internalIDToNameTable: []
+>>>>>>> e0a697d8dcf88a087166db7595e373edb1ffc494
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -7814,6 +7820,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: ZRPGBeach_0
@@ -61890,6 +61897,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+    sprites: []
+>>>>>>> e0a697d8dcf88a087166db7595e373edb1ffc494
     outline: []
     physicsShape: []
     bones: []
