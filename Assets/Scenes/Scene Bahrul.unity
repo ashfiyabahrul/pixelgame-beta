@@ -209,9 +209,12 @@ MonoBehaviour:
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
 <<<<<<< HEAD
+<<<<<<< HEAD
   dialog: Gubuk ini... ah aku jadi teringat kembali kenangan yang tidak ingin ku
     ingat. Tempat dimana aku menyendiri ketika aku merasa berbeda dari yang lain.
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   dialog: Barat / West
   playerInRange: 0
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -304,9 +307,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+<<<<<<< HEAD
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
+=======
+  m_SortingLayerID: 319038727
+  m_SortingLayer: -1
+  m_SortingOrder: 0
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_Sprite: {fileID: -1141051442581989123, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15599,9 +15608,12 @@ MonoBehaviour:
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
 <<<<<<< HEAD
+<<<<<<< HEAD
   dialog: Uwah menyeramkan sekali. Aku ingat gua ini adalah gua yang tidak pernah
     berani kumasuki.
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   dialog: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris posuere,
     nunc quis dignissim vehicula, eros nisl rhoncus magna, a maximus sapien ligula
     dignissim eros. Mauris vel laoreet leo, non rhoncus odio. Nam quis ultricies
@@ -70691,10 +70703,13 @@ MonoBehaviour:
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
 <<<<<<< HEAD
+<<<<<<< HEAD
   dialog: Inikan... sebuah desa... tapi desa apa ini... aku tidak bisa mengingatnya...
     Aku tidak bisa pergi kesana sebelum keluar dari dungeon ini. Aku harus segera
     keluar
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   dialog: Barat / West
   playerInRange: 0
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -70852,10 +70867,13 @@ MonoBehaviour:
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
 <<<<<<< HEAD
+<<<<<<< HEAD
   dialog: Di hutan ini aku sering berlatih bertarung menggunakan pedang. Dan setelahnya
     aku akan beristirahat dibawah pohon itu. Aku masih bisa merasakan nikmatnya angin
     sepoi-sepoi di saat itu.
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   dialog: Barat / West
   playerInRange: 0
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -70962,6 +70980,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1825260833
 GameObject:
@@ -71072,6 +71091,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 --- !u!1 &1976141414
@@ -73723,6 +73744,7 @@ MonoBehaviour:
   knockTime: 0.2
   damage: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &3067487714721937744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73860,6 +73882,8 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7986469, y: 1.111328}
   m_EdgeRadius: 0
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 --- !u!114 &4284226681147713544
@@ -74489,6 +74513,7 @@ Rigidbody2D:
   m_CollisionDetection: 0
   m_Constraints: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &6399761142566923392
 Transform:
   m_ObjectHideFlags: 0
@@ -74629,6 +74654,8 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 --- !u!61 &7889533219384762176

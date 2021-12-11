@@ -21,6 +21,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
+    width: 1366
+    height: 675
+  m_MinSize: {x: 911, y: 492}
+  m_MaxSize: {x: 22006, y: 14042}
+  vertical: 0
+  controlID: 150
+=======
     width: 1536
 <<<<<<< HEAD
     height: 771
@@ -34,6 +42,10 @@ MonoBehaviour:
   m_MaxSize: {x: 22003, y: 14021}
   vertical: 1
   controlID: 23279
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 --- !u!114 &2
 MonoBehaviour:
@@ -51,15 +63,26 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
+    y: 73
+    width: 326
+    height: 429
+=======
     y: 73.6
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 429.4
     height: 493.40002
+=======
+    width: 451
+    height: 628.6
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
     width: 451
     height: 628.6
@@ -72,7 +95,15 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+  m_TargetSize: {x: 326, y: 408}
+=======
+<<<<<<< HEAD
   m_TargetSize: {x: 429.4, y: 472.40002}
+=======
+  m_TargetSize: {x: 451, y: 607.6}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
   m_TargetSize: {x: 451, y: 607.6}
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -91,15 +122,28 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    m_HBaseRangeMin: -163
+    m_HBaseRangeMax: 163
+    m_VBaseRangeMin: -204
+    m_VBaseRangeMax: 204
+=======
+<<<<<<< HEAD
     m_HBaseRangeMin: -171.76
     m_HBaseRangeMax: 171.76
     m_VBaseRangeMin: -188.96
     m_VBaseRangeMax: 188.96
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     m_HBaseRangeMin: -180.40001
     m_HBaseRangeMax: 180.40001
     m_VBaseRangeMin: -243.04
     m_VBaseRangeMax: 243.04
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -119,10 +163,24 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
+      width: 326
+      height: 408
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 163, y: 204}
+=======
+<<<<<<< HEAD
       width: 429.4
       height: 472.40002
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 214.7, y: 236.20001}
+=======
+      width: 451
+      height: 607.6
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 225.5, y: 303.8}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
       width: 451
       height: 607.6
@@ -136,6 +194,16 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+      x: -163
+      y: -204
+      width: 326
+      height: 408
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 326, y: 429}
+=======
+<<<<<<< HEAD
       x: -214.7
       y: -236.20001
       width: 429.4
@@ -144,6 +212,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 536.75, y: 616.75}
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
       x: -225.5
       y: -303.8
       width: 451
@@ -151,6 +221,10 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 563.75, y: 785.75}
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -207,14 +281,22 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    width: 327
+    height: 675
+=======
+<<<<<<< HEAD
     width: 430.4
     height: 771
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_MinSize: {x: 201, y: 342}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 5827
+  controlID: 40
 --- !u!114 &4
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     width: 452
     height: 770.8
   m_MinSize: {x: 201, y: 321}
@@ -240,8 +322,18 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    width: 327
+    height: 450
+=======
+<<<<<<< HEAD
     width: 430.4
     height: 514.4
+=======
+    width: 452
+    height: 649.6
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
     width: 452
     height: 649.6
@@ -277,8 +369,13 @@ MonoBehaviour:
     x: 0
     y: 73.6
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 461.4
     height: 492.59998
+=======
+    width: 451
+    height: 628.6
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     width: 451
     height: 628.6
@@ -307,13 +404,22 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    y: 450
+    width: 327
+    height: 225
+=======
+<<<<<<< HEAD
     y: 514.4
     width: 430.4
     height: 256.59998
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 7}
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     y: 649.6
     width: 452
     height: 121.20001
@@ -341,18 +447,27 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    y: 523
+    width: 326
+    height: 204
+=======
+<<<<<<< HEAD
     y: 588
     width: 429.4
     height: 235.59998
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &8
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     y: 723.2
     width: 451
     height: 100.20001
@@ -370,6 +485,9 @@ MonoBehaviour:
   m_EditorHideFlags: 1
 =======
   m_EditorHideFlags: 0
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: SceneView
@@ -378,18 +496,37 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+    x: 327
+=======
+<<<<<<< HEAD
     x: 430.4
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
     y: 0
-    width: 596.8
-    height: 771
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+    width: 531
+    height: 675
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
+=======
+    x: 452
+    y: 0
+    width: 576
+    height: 770.8
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 10}
+  m_Panes:
+  - {fileID: 10}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &10
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     x: 452
     y: 0
@@ -419,20 +556,33 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 327
+    y: 73
+    width: 529
+    height: 654
+=======
 <<<<<<< HEAD
     x: 430.4
     y: 73.6
     width: 594.8
     height: 750
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     x: 452
     y: 73.6
     width: 574
     height: 749.8
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -447,9 +597,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 5.745046, y: 9.67655, z: -2.8117838}
     speed: 2
     m_Value: {x: 5.745046, y: 9.67655, z: -2.8117838}
+=======
+    m_Target: {x: 8.151964, y: -3.127713, z: -11.746841}
+    speed: 2
+    m_Value: {x: 8.151964, y: -3.127713, z: -11.746841}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     m_Target: {x: 8.151964, y: -3.127713, z: -11.746841}
     speed: 2
@@ -506,9 +662,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 14.249051
     speed: 2
     m_Value: 14.249051
+=======
+    m_Target: 20.138643
+    speed: 2
+    m_Value: 20.138643
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     m_Target: 20.138643
     speed: 2
@@ -539,7 +701,11 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &10
+=======
+--- !u!114 &11
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
 --- !u!114 &11
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -556,24 +722,42 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 11}
   - {fileID: 13}
 =======
   - {fileID: 12}
   - {fileID: 14}
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+=======
+  - {fileID: 12}
+  - {fileID: 14}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_Position:
     serializedVersion: 2
-    x: 1027.2
+    x: 858
     y: 0
     width: 232
 <<<<<<< HEAD
+<<<<<<< HEAD
+    height: 675
+=======
+<<<<<<< HEAD
     height: 771
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 5801
+  controlID: 120
 --- !u!114 &11
+=======
+    height: 770.8
+  m_MinSize: {x: 230, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
+  vertical: 1
+  controlID: 23253
+--- !u!114 &12
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     height: 770.8
   m_MinSize: {x: 230, y: 471}
@@ -600,7 +784,12 @@ MonoBehaviour:
     y: 0
     width: 232
 <<<<<<< HEAD
+<<<<<<< HEAD
+    height: 404
+=======
+<<<<<<< HEAD
     height: 499.2
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
@@ -609,6 +798,17 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
+=======
+    height: 448.8
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &13
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     height: 448.8
   m_MinSize: {x: 202, y: 221}
@@ -635,15 +835,23 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1027.2001
-    y: 73.6
+    x: 858
+    y: 73
     width: 230
 <<<<<<< HEAD
+<<<<<<< HEAD
+    height: 383
+=======
+<<<<<<< HEAD
     height: 478.2
+=======
+    height: 427.8
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
     height: 427.8
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -654,7 +862,15 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+      m_ExpandedIDs: 52faffff6afaffff1cfbffff
+=======
+<<<<<<< HEAD
       m_ExpandedIDs: bef8ffffdef8ffffb0f9ffffc6f9ffffeef9ffff0efaffff26faffff3efaffff56faffff6cfaffff82faffff40fbffff6e8400003c86000032870000cc8700000e880000d4880000
+=======
+      m_ExpandedIDs: c688ffff6e8fffff8090ffffc090ffff3e94ffff629dffff889dffff80a7ffffa4a7ffffbca7ffff02a8ffffeeabffff2aaeffffc8efffffeeefffff00f0ffffdaf4ffff18f6fffff8f6ffffaa520000629600008096000044a2000054a4000094a4000026a5000058a50000baa5000082ad0000daad0000eaad000014ae000020ae0000
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
       m_ExpandedIDs: c688ffff6e8fffff8090ffffc090ffff3e94ffff629dffff889dffff80a7ffffa4a7ffffbca7ffff02a8ffffeeabffff2aaeffffc8efffffeeefffff00f0ffffdaf4ffff18f6fffff8f6ffffaa520000629600008096000044a2000054a4000094a4000026a5000058a50000baa5000082ad0000daad0000eaad000014ae000020ae0000
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -674,7 +890,11 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 11}
+=======
+        m_ClientGUIView: {fileID: 12}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
         m_ClientGUIView: {fileID: 12}
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -686,7 +906,11 @@ MonoBehaviour:
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &13
+=======
+--- !u!114 &14
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
 --- !u!114 &14
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -706,9 +930,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+    y: 404
+=======
+<<<<<<< HEAD
     y: 499.2
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
     width: 232
-    height: 271.8
+    height: 271
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 14}
@@ -720,6 +949,10 @@ MonoBehaviour:
 =======
     y: 448.8
     width: 232
+=======
+    y: 448.8
+    width: 232
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     height: 322
   m_MinSize: {x: 230, y: 250}
   m_MaxSize: {x: 10000, y: 10000}
@@ -729,6 +962,9 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &15
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -745,10 +981,16 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+    x: 858
+    y: 477
+    width: 230
+    height: 250
+=======
 <<<<<<< HEAD
     x: 1027.2001
     y: 572.8
@@ -759,6 +1001,10 @@ MonoBehaviour:
     y: 522.4
     width: 230
     height: 301
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -775,7 +1021,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes
+=======
+    - Assets/Prefabs
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
     - Assets/Prefabs
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -783,27 +1033,45 @@ MonoBehaviour:
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
+<<<<<<< HEAD
+  m_LastFolders: []
+=======
   m_LastFolders:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - Assets/Scenes
 =======
   - Assets
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
+  - Assets
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\TASKS\kuliah\Game\Enigma
+  m_LastProjectPath: G:\tugas\pemrograman game\Enigma_2.0
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 243.4}
     m_SelectedIDs: 548d0000
     m_LastClickedID: 36180
+<<<<<<< HEAD
+    m_ExpandedIDs: 000000005e170000ea4a0000ba4e0000bc4e0000be4e0000c04e0000c24e0000c44e0000c64e0000c84e0000ca4e0000cc4e0000ce4e0000d04e0000d24e0000d44e0000d64e0000d84e0000da4e0000dc4e0000de4e0000e04e0000e24e0000e44e0000e64e0000e84e0000ea4e0000ec4e0000ee4e0000f04e0000f24e0000f44e0000f64e0000f84e0000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f00000e4f0000104f0000124f0000144f0000164f0000184f00001a4f00001c4f00001e4f0000204f0000224f0000244f0000
+=======
     m_ExpandedIDs: ffffffff0000000016480000224800002448000026480000284800002a4800002c4800002e48000030480000324800003448000036480000384800003a4800003c4800003e48000040480000424800004448000046480000484800004a4800004c4800004e48000050480000524800005448000056480000584800005a4800005c4800005e48000060480000624800006448000066480000684800006a4800006c4800006e48000070480000724800007448000076480000784800007a4800007c4800007e48000080480000824800008448000086480000884800008a480000e6480000ea480000
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 644c0000
     m_LastClickedID: 19556
     m_ExpandedIDs: ffffffff00000000b01b00005e4c0000604c0000624c0000644c0000664c0000684c00006a4c00006c4c00006e4c0000704c0000724c0000744c0000764c0000784c00007a4c00007c4c00007e4c0000804c0000824c0000844c0000864c0000884c00008a4c00008c4c00008e4c0000904c0000924c0000944c0000964c0000984c00009a4c00009c4c00009e4c0000a04c0000a24c0000a44c0000a64c0000a84c0000aa4c0000ac4c0000ae4c0000b04c0000b24c0000b44c0000b64c0000b84c0000ba4c0000bc4c0000be4c0000c04c0000c24c0000c44c0000c64c0000c84c0000d84c0000da4c0000dc4c0000de4c0000
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -830,15 +1098,27 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 247.8689}
+<<<<<<< HEAD
+    m_SelectedIDs: 724f0000
+    m_LastClickedID: 20338
+    m_ExpandedIDs: ffffffff000000005e170000ea4a0000ba4e0000bc4e0000be4e0000c04e0000c24e0000c44e0000c64e0000c84e0000ca4e0000cc4e0000ce4e0000d04e0000d24e0000d44e0000d64e0000d84e0000da4e0000dc4e0000de4e0000e04e0000e24e0000e44e0000e64e0000e84e0000ea4e0000ec4e0000ee4e0000f04e0000f24e0000f44e0000f64e0000f84e0000fa4e0000fc4e0000fe4e0000004f0000024f0000044f0000064f0000084f00000a4f00000c4f00000e4f0000104f0000124f0000144f0000164f0000184f00001a4f00001c4f00001e4f0000204f0000224f0000244f0000
+=======
     m_SelectedIDs: f6870000
     m_LastClickedID: 0
     m_ExpandedIDs: ffffffff0000000016480000224800002448000026480000284800002a4800002c4800002e48000030480000324800003448000036480000384800003a4800003c4800003e48000040480000424800004448000046480000484800004a4800004c4800004e48000050480000524800005448000056480000584800005a4800005c4800005e48000060480000624800006448000066480000684800006a4800006c4800006e48000070480000724800007448000076480000784800007a4800007c4800007e48000080480000824800008448000086480000884800008a480000e6480000ea480000
 =======
+=======
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     scrollPos: {x: 0, y: 225}
     m_SelectedIDs: b0ad0000
     m_LastClickedID: 0
     m_ExpandedIDs: ffffffff00000000b01b00005e4c0000604c0000624c0000644c0000664c0000684c00006a4c00006c4c00006e4c0000704c0000724c0000744c0000764c0000784c00007a4c00007c4c00007e4c0000804c0000824c0000844c0000864c0000884c00008a4c00008c4c00008e4c0000904c0000924c0000944c0000964c0000984c00009a4c00009c4c00009e4c0000a04c0000a24c0000a44c0000a64c0000a84c0000aa4c0000ac4c0000ae4c0000b04c0000b24c0000b44c0000b64c0000b84c0000ba4c0000bc4c0000be4c0000c04c0000c24c0000c44c0000c64c0000c84c0000d84c0000da4c0000dc4c0000de4c0000
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -856,7 +1136,11 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 13}
+=======
+      m_ClientGUIView: {fileID: 14}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
       m_ClientGUIView: {fileID: 14}
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
@@ -869,8 +1153,18 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
+    m_SelectedInstanceIDs: 724f0000
+    m_LastClickedInstanceID: 20338
+=======
+<<<<<<< HEAD
     m_SelectedInstanceIDs: f6870000
     m_LastClickedInstanceID: 34806
+=======
+    m_SelectedInstanceIDs: b0ad0000
+    m_LastClickedInstanceID: 44464
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
     m_SelectedInstanceIDs: b0ad0000
     m_LastClickedInstanceID: 44464
@@ -904,8 +1198,13 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 121.20001
 --- !u!114 &15
+=======
+  m_DirectoriesAreaWidth: 109.99997
+--- !u!114 &16
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 =======
   m_DirectoriesAreaWidth: 109.99997
 --- !u!114 &16
@@ -924,11 +1223,16 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1259.2
+    x: 1090
     y: 0
+<<<<<<< HEAD
+    width: 276
+    height: 675
+=======
 <<<<<<< HEAD
     width: 276.80005
     height: 771
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
@@ -948,6 +1252,9 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &17
+<<<<<<< HEAD
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+=======
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -964,14 +1271,14 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1259.2001
-    y: 73.6
-    width: 275.80005
-    height: 750
+    x: 1090
+    y: 73
+    width: 275
+    height: 654
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -980,7 +1287,15 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
 <<<<<<< HEAD
+<<<<<<< HEAD
+  m_LastInspectedObjectInstanceID: 20338
+=======
+<<<<<<< HEAD
   m_LastInspectedObjectInstanceID: 34806
+=======
+  m_LastInspectedObjectInstanceID: 44464
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 48a04833d35f51c09cdbd797d768a7dfa2978266
 =======
   m_LastInspectedObjectInstanceID: 44464
 >>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
