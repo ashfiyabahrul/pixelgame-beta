@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using UnityEngine.UI;
 
 public enum lastPressed
 {
@@ -18,6 +19,9 @@ public class SceneBahrulMainPuzzle : MonoBehaviour
     public GameObject buttonWest;
     public GameObject buttonSouth;
     public GameObject portal;
+    public GameObject dialogBox;
+    public Text dialogText;
+    public string dialog;
     public Sprite switchOffSprite;
     public lastPressed buttonPressCondition = lastPressed.none;
 
@@ -42,6 +46,20 @@ public class SceneBahrulMainPuzzle : MonoBehaviour
                     {
                         Debug.Log("Congratulation");
                         portal.SetActive(true);
+                        dialogBox.SetActive(true);
+                        dialogText.text = dialog;
+                        if (Input.GetKeyDown(KeyCode.Space) && dialogBox.activeInHierarchy)
+                        {
+                            dialogBox.SetActive(false);
+                            buttonNorth.GetComponent<SpriteRenderer>().sprite = switchOffSprite;
+                            buttonEast.GetComponent<SpriteRenderer>().sprite = switchOffSprite;
+                            buttonWest.GetComponent<SpriteRenderer>().sprite = switchOffSprite;
+                            buttonSouth.GetComponent<SpriteRenderer>().sprite = switchOffSprite;
+                            buttonNorth.GetComponent<Button>().currentCondition = buttonCondition.not;
+                            buttonEast.GetComponent<Button>().currentCondition = buttonCondition.not;
+                            buttonWest.GetComponent<Button>().currentCondition = buttonCondition.not;
+                            buttonSouth.GetComponent<Button>().currentCondition = buttonCondition.not;
+                        }
                     }
                 }
                 else if (buttonSouth.GetComponent<Button>().currentCondition == buttonCondition.pressed)

@@ -847,7 +847,7 @@ TextureImporter:
     second: Serene Village _280
   - first:
       213: -1914802178749283223
-    second: Serene Village _281
+    second: smol_door
   - first:
       213: -8982217742956897906
     second: Serene Village _282
@@ -6898,7 +6898,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Serene Village _281
+      name: smol_door
       rect:
         serializedVersion: 2
         x: 80
