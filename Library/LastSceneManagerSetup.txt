@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Scene Hikal.unity
+=======
+- path: Assets/Scenes/Scene Bahrul.unity
+>>>>>>> 16b7682553f77c215dd3a7897cea7fed82251470
   isLoaded: 1
   isActive: 1
   isSubScene: 0
