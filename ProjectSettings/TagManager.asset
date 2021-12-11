@@ -4,13 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - breakable
   - enemy
+  - keyItem
+  - breakable
   - weapon
-  - Spike3
-  - Spike1
-  - Spike2
-  - Spike4
+  - Teleporter
   layers:
   - Default
   - TransparentFX
@@ -45,12 +43,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 2962516671
-    locked: 0
-  - name: Interactable
-    uniqueID: 319038727
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
