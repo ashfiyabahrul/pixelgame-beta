@@ -13,7 +13,19 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
+<<<<<<< HEAD
   - m_Tile: {fileID: 11400000, guid: 52b0b536161010f40979a1298a69ff02, type: 2}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - m_Tile: {fileID: 0}
+=======
+  - m_Tile: {fileID: 11400000, guid: 7a9c2b2dfc8f96f49bc842a44e9b0121, type: 2}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+=======
+  - m_Tile: {fileID: 11400000, guid: 7a9c2b2dfc8f96f49bc842a44e9b0121, type: 2}
+>>>>>>> parent of 55fa048a... Scene Bahrul 80% Selesai
+>>>>>>> 49621945ca4133b3a7f5dae8d8f8e86c0cf8b5f2
     m_Matrix:
       e00: 1
       e01: 0
