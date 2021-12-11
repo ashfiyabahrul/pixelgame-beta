@@ -205,11 +205,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Gubuk ini... ah aku jadi teringat kembali kenangan yang tidak ingin ku
     ingat. Tempat dimana aku menyendiri ketika aku merasa berbeda dari yang lain.
-  playerInRange: 0
 --- !u!61 &401947867
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -299,9 +300,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1141051442581989123, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -517,10 +518,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Selatan / South
-  playerInRange: 0
 --- !u!61 &477413182
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -610,9 +612,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5432805864640696868, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15932,11 +15934,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Uwah menyeramkan sekali. Aku ingat gua ini adalah gua yang tidak pernah
     berani kumasuki.
-  playerInRange: 0
 --- !u!61 &1001282635
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16026,9 +16029,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1141051442581989123, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16235,10 +16238,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Utara / North
-  playerInRange: 0
 --- !u!61 &1316283735
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16328,9 +16332,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -4833667566943592152, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16425,8 +16429,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1332450625
-  m_SortingLayer: -2
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -71027,10 +71031,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Timur / East
-  playerInRange: 0
 --- !u!61 &1574795487
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71120,9 +71125,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5432805864640696868, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -71241,12 +71246,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Inikan... sebuah desa... tapi desa apa ini... aku tidak bisa mengingatnya...
     Aku tidak bisa pergi kesana sebelum keluar dari dungeon ini. Aku harus segera
     keluar
-  playerInRange: 0
 --- !u!61 &1763107881
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71336,9 +71342,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1141051442581989123, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -71396,12 +71402,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Di hutan ini aku sering berlatih bertarung menggunakan pedang. Dan setelahnya
     aku akan beristirahat dibawah pohon itu. Aku masih bisa merasakan nikmatnya angin
     sepoi-sepoi di saat itu.
-  playerInRange: 0
 --- !u!61 &1782075015
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71491,9 +71498,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -1141051442581989123, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -71602,7 +71609,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -2437694823876842517, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -72974,7 +72981,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5486625386941165861, guid: 4534fdbb2f139b04fa338ed3112b4c94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -73177,7 +73184,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5486625386941165861, guid: 4534fdbb2f139b04fa338ed3112b4c94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -73316,7 +73323,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5486625386941165861, guid: 4534fdbb2f139b04fa338ed3112b4c94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -73455,7 +73462,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5486625386941165861, guid: 4534fdbb2f139b04fa338ed3112b4c94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -73623,7 +73630,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5034061168752090764, guid: 070830cc6ed7540458cb3924a8e01023, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -73821,7 +73828,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5034061168752090764, guid: 070830cc6ed7540458cb3924a8e01023, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -74057,7 +74064,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5034061168752090764, guid: 070830cc6ed7540458cb3924a8e01023, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -74212,7 +74219,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 6500949842839943123, guid: ade120d7df2564f46acde8ced9e7be2d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -74622,10 +74629,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2377dfd650647924a9d43fec054f88dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  context: {fileID: 11400000, guid: af2a807c58fc8e9468d9bf33db60ec8d, type: 2}
+  playerInRange: 0
   dialogBox: {fileID: 4284226681147713546}
   dialogText: {fileID: 4284226681554685956}
   dialog: Barat / West
-  playerInRange: 0
 --- !u!61 &5871853672343253970
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -74689,9 +74697,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 319038727
-  m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -4833667566943592152, guid: 6b14e366e7615f44f8233875975d1c3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -74933,7 +74941,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5034061168752090764, guid: 070830cc6ed7540458cb3924a8e01023, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -75019,7 +75027,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -567620549381047439, guid: 4534fdbb2f139b04fa338ed3112b4c94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -75269,7 +75277,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -5034061168752090764, guid: 070830cc6ed7540458cb3924a8e01023, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -75514,6 +75522,8 @@ MonoBehaviour:
   animator: {fileID: 8836956789446119607}
   currentHealth: {fileID: 11400000, guid: 8acd1fcf19beb814187aa9435f6080a0, type: 2}
   playerHealthSignal: {fileID: 11400000, guid: 9bbabf9aac1bfb24e828abc03b01f849, type: 2}
+  playerInventory: {fileID: 0}
+  receivedItemSprite: {fileID: 0}
 --- !u!1 &9154021262615455404
 GameObject:
   m_ObjectHideFlags: 0

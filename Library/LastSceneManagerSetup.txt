@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Scene Bahrul.unity
-=======
-- path: Assets/Scenes/Scene Lemon.unity
->>>>>>> 9fed6ad97c91c1db2605a40f658af70ce31969f1
   isLoaded: 1
   isActive: 1
   isSubScene: 0

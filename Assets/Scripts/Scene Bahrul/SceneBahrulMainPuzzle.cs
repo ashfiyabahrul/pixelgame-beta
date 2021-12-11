@@ -70,7 +70,7 @@ public class SceneBahrulMainPuzzle : MonoBehaviour
                 buttonSouth.GetComponent<Button>().currentCondition = buttonCondition.not;
             }
         }
-        else if (buttonEast.GetComponent<Button>().currentCondition == buttonCondition.pressed || buttonWest.GetComponent<Button>().currentCondition == buttonCondition.pressed || buttonSouth.GetComponent<Button>().currentCondition == buttonCondition.pressed)
+        else if (buttonNorth.GetComponent<Button>().currentCondition != buttonCondition.pressed || buttonEast.GetComponent<Button>().currentCondition == buttonCondition.pressed || buttonWest.GetComponent<Button>().currentCondition == buttonCondition.pressed || buttonSouth.GetComponent<Button>().currentCondition == buttonCondition.pressed)
         {
             buttonPressCondition = lastPressed.none;
             buttonNorth.GetComponent<SpriteRenderer>().sprite = switchOffSprite;
