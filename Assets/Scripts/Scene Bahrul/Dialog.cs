@@ -10,6 +10,7 @@ public class Dialog : MonoBehaviour
     public Text dialogText;
     public string nama, dialog;
     public bool playerInRange;
+
     // Start is called before the first frame update
     void Start()
     {

@@ -114,6 +114,7 @@
     <Compile Include="Assets\Scripts\Chest.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\Interactable.cs" />
+    <Compile Include="Assets\Scripts\Scene Bahrul\Dialog.cs" />
     <Compile Include="Assets\Scripts\Scene Bahrul\DoorLocked.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
@@ -132,7 +133,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\Scene Bahrul\Dialog.cs" />
+    <Compile Include="Assets\Scripts\Scene Bahrul\PortalClose.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

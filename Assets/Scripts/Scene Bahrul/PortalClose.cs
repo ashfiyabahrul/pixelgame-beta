@@ -3,33 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Dialog : MonoBehaviour
+public class PortalClose : MonoBehaviour
 {
+    public GameObject portal;
     public GameObject dialogBox;
-    public Text namaText;
-    public Text dialogText;
-    public string nama, dialog;
     public bool playerInRange;
+    public Text dialogText;
+    public string dialog;
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && playerInRange)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             if (dialogBox.activeInHierarchy)
             {
                 dialogBox.SetActive(false);
-            }
-            else
-            {
-                dialogBox.SetActive(true);
-                namaText.text = nama;
-                dialogText.text = dialog;
             }
         }
     }
@@ -37,6 +31,8 @@ public class Dialog : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            dialogBox.SetActive(true);
+            dialogText.text = dialog;
             playerInRange = true;
         }
     }
@@ -44,8 +40,9 @@ public class Dialog : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            playerInRange = false;
             dialogBox.SetActive(false);
+            playerInRange = false;
+            portal.SetActive(false);
         }
     }
 }
